@@ -212,7 +212,7 @@ Factors</a>.
 
 --head_version \e ver
 - This option specifies the kinematic structure of the head; the value
-  \e ver is a double in the set {1.0, 2.0, 2.5, 2.6, 2.7, 3.0}, being 1.0
+  \e ver is a double in the set {1.0, 2.0, 2.5, 2.6, 2.7, 2.10, 3.0}, being 1.0
   the default version.
 
 --verbose
